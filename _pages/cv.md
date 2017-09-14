@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. Electrical Engineering (Communication) in Amirkabir University of Technology, 2013
+* B.S. Computer Science in Amirkabir University of Technology, 2015
+* M.S. Electrical Engineering (Communication Systems) in AUT, 2015
+* Ph.D Electrical Engineering (Communication Systems) in AUT, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2014 up to now: Computer Vision and Machine Learning Researcher
+  * Faraadid Co.
+  * Duties included: 
+    * Developing C++, Python Application
+    * Project Managment
+  * CEO: Dr. Mahzarnia
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+  * OpenCV
+  * Qt
+  * CMake
+
+
+* Python
+  * scikit learn
+  * pandas
+  * matplotlib
+  * keras and tensorflow
+
+* Matlab
+* Project Managment
+  * Scrume
+  * Kanban
 
 Publications
 ======
