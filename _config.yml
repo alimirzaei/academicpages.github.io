@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Mirzaei / Ali Mirzaei"
+title                    : "Ali Mirzaei"
 title_separator          : "-"
 name                     : &name "Ali"
 description              : &description ""
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ali Mirzaei"
   avatar           : "ali.jpg"
-  bio              : "Machine Learning, Artificial Inteligence, Deep Learning and Machine Vision"
+  bio              : "As I have said so many times, God doesn't play dice with the world. *Einstein*"
   location         : "Tehran"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=wW0f0aIAAAAJ&hl=en"
