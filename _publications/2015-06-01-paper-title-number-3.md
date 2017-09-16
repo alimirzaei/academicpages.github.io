@@ -10,6 +10,6 @@ citation: 'Ali Mirzaei, Yalda Mohsenzadeh, Hamid Sheikhzadeh (2015). &quot;Adapt
 ---
 Kernel based approaches are one of the most well-known methods in regression and classification tasks. Type of kernel function and also its parameters have a considerable effect on the classifier performance. Usually kernel parameters are obtained by cross-validation or validation dataset. In this paper we propose a classification learning approach which learn the parameter (kernel width) of Gaussian kernel function during learning stage. The proposed method is an extension of RVM which is a Bayesian counter-part of well- ...
 
-[Download paper here](http://academicpages.github.io/files/AGRVM.pdf)
+[Download paper here](http://alimirzaei.github.io/files/AGRVM.pdf)
 
 Recommended citation: Ali Mirzaei, Yalda Mohsenzadeh, Hamid Sheikhzadeh (2015). &quot;Adaptive Gaussian kernel learning for sparse Bayesian classification: an approach for silhouette based vehicle classification.&quot; <i>Machine Vision and Image Processing (MVIP)</i>. 1(3).
