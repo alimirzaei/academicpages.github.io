@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Near Real-Time Vehicle Detection and Tracking in Highways"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'In this paper we present an approach for detection and tracking of vehicles in highways. The Aggregated Channel Features (ACF) is used to detect vehicles and the Kalman filter isemployed to track the detected objects. The proposed scheme enjoys high accuracy in both detection and tracking. Moreover, it can be run at near real-time speed on an ordinary computer (both detection and tracking take about 140ms for each frame). The proposed approach was the best algorithm in Amirkabir Artificial Intelligence Competition in 2015 (AAIC2015).'
+date: 2016-04-01
+venue: 'Conference: International Conference on Traffic and Transportation Engineering'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'E. Soroush, Ali Mirzaei, Shiva Kamkar. (2016). &quot;Near Real-Time Vehicle Detection and Tracking in Highways&quot; <i>Conference: International Conference on Traffic and Transportation Engineering</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this paper we present an approach for detection and tracking of vehicles in highways. The Aggregated Channel Features (ACF) is used to detect vehicles and the Kalman filter isemployed to track the detected objects. The proposed scheme enjoys high accuracy in both detection and tracking. Moreover, it can be run at near real-time speed on an ordinary computer (both detection and tracking take about 140ms for each frame). The proposed approach was the best algorithm in Amirkabir Artificial Intelligence Competition in 2015 (AAIC2015).
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](http://academicpages.github.io/files/CarDetectionTracking.pdf)
+
+Recommended citation: E. Soroush, Ali Mirzaei, Shiva Kamkar. (2016). &quot;Near Real-Time Vehicle Detection and Tracking in Highways&quot; <i>Conference: International Conference on Traffic and Transportation Engineering</i>.
